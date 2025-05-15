@@ -79,3 +79,27 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  padding: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+}
